@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Здесь название</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <div class="nav">
+  <div class="container">
+  <ul>
+    <b>Главная</b> | <a href="о нас .html">О нас</a> | <a href="ссылка">Ещё чот </a> 
+  </ul>
+  </div>
+  </div>
+  <div class="jumbotron">
+  <div class="container">
+  <h1>Это текст в боди(большой)</h1>
+  <h1 align="center">Это текст в боди по центру(большой)</h1>      
+  <img src="1.png"> -эт картинка
+  <p>Эт новый обзац(маленький)</p>
+  </div>
+  </div>
+  <video width="400" height="300" controls>   video controls-видео с управлением,width="ширина",height="высота"
+    <source src="video.mp4" type="video/mp4"> src="название видео.mp4",type="тип"
+  </video>
+  <audio controls>
+    <source src="faded.mp3" type="audio/mp3">
+  </audio>
+</body>
+
+</html>

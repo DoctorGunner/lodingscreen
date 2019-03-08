@@ -1,11 +1,3 @@
-/*    _           _    _                     _ 
-     | |         | |  | |                   | |
-  ___| | ___  ___| | _| |     ___   __ _  __| |
- / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
- \__ \ |  __/  __/   <| |___| (_) | (_| | (_| |
- |___/_|\___|\___|_|\_\______\___/ \__,_|\__,_|
-    version 2.05
-*/
 
 /*URL for the server logo
 Leave it blank to use text instead*/
@@ -50,7 +42,7 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/bg.png",
+	"backgrounds/images/bg.jpg",
 ];
 
 /*Random background images order?*/
